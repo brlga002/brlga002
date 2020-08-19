@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on a BOT made with Node; React and React Native app for an animal institution, based on the Rocketseat project.
+- 👯 I'm looking to collaborate on Node.js, React, React Native. Maybe PHP with PSR's or Laravel
 - 📫 How to contact me: the easiest way is to send an email to gabriel@devmanaus.com or send a message on [WhatsApp](https://api.whatsapp.com/send?phone=559299772008&text=Ola%2C%20gabriel%20vi%20seu%20numero%20no%20github.)
 
 <!--

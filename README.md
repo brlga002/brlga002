@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 👯 I'm looking to collaborate on Node.js, React, React Native. Maybe PHP with PSR's or Laravel
-- 📫 How to contact me: the easiest way is to send an email to gabriel.lima.1000@gmail.com or send a message on [WhatsApp](https://api.whatsapp.com/send?phone=559299772008&text=Ola%2C%20gabriel%20vi%20seu%20numero%20no%20github.)
+- 👯 I'm looking to collaborate on Node.js, React, React Native.
+- 📫 How to contact me: the easiest way is to send an email to gabriel.lima.1000@gmail.com or send a message on [WhatsApp](https://api.whatsapp.com/send?phone=5592991755655&text=Ola%2C%20gabriel%20vi%20seu%20numero%20no%20github.)
 
 <!--
 Here are some ideas to get you started:
